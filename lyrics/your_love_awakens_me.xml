@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.4" modifiedIn="OpenLP 2.4.4" modifiedDate="2019-07-11T08:09:07">
+  <properties>
+    <titles>
+      <title>Your love awakens me</title>
+      <title>There were walls between us</title>
+      <title>Your love is greater</title>
+    </titles>
+    <authors>
+      <author>Ben Cantalon/Bethel</author>
+    </authors>
+    <verseOrder>v1 p c v2 p c b c</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        There were walls between us<br />
+        And by the cross you came and broke them down<br />
+        You broke them down<br />
+      </lines>
+      <lines>
+        And there were chains around us<br />
+        By Your grace we are no longer bound<br />
+        No longer bound<br />
+      </lines>
+    </verse>
+    <verse name="p">
+      <lines>
+        You called me out of the grave<br />
+        You called me into the light<br />
+        You called my name and then my heart came alive<br />
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        Your love is greater<br />
+        Your love is stronger<br />
+        Your love awakens, awakens, awakens me<br />
+      </lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+        Feel the darkness shaking<br />
+        All the dead are coming back to life<br />
+        Back to life<br />
+      </lines>
+      <lines>
+        Hear the song awaken<br />
+        All creation singing we're alive<br />
+        'Cause You're alive<br />
+      </lines>
+    </verse>
+    <verse name="b">
+      <lines>
+        And what a love we found<br />
+        Death can't hold us down<br />
+        We shout it out we're alive, 'cause you're alive<br />
+      </lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.4" modifiedIn="OpenLP 2.4.4" modifiedDate="2019-07-11T08:09:07">
+  <properties>
+    <titles>
+      <title>This is amazing grace</title>
+      <title>Who breaks the power of sin and darkenss</title>
+      <title>Worthy is the lamb</title>
+    </titles>
+    <authors>
+      <author>Ben Cantalon/Bethel</author>
+    </authors>
+    <verseOrder>v1 v2 c v3 v4 c b c</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        Who breaks the power of sin and darkness<br />
+        Whose love is mighty and so much stronger<br />
+        The King of Glory, the King above all kings<br />
+      </lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+        Who shakes the whole earth with holy thunder<br />
+        And leaves us breathless in awe and wonder<br />
+        The King of Glory, the King above all kings<br />
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        This is amazing grace<br />
+        This is unfailing love<br />
+        That You would take my place<br />
+        That You would bear my cross<br />
+      </lines>
+      <lines>
+        You would lay down Your life<br />
+        That I would be set free<br />
+        Oh, Jesus, I sing for<br />
+        All that You've done for me<br />
+      </lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+        Who brings our chaos back into order<br />
+        Who makes the orphan a son and daughter<br />
+        The King of Glory, the King of Glory<br />
+      </lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+        Who rules the nations with truth and justice<br />
+        Shines like the sun in all of its brilliance<br />
+        The King of Glory, the King above all kings<br />
+      </lines>
+    </verse>
+    <verse name="b">
+      <lines>
+        Worthy is the Lamb who was slain<br />
+        Worthy is the King who conquered the grave (x3)<br />
+        Worthy is the Lamb who was slain<br />
+        Worthy is the King<br />
+      </lines>
+    </verse>
+  </lyrics>
+</song>

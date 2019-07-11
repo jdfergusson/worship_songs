@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.4" modifiedIn="OpenLP 2.4.4" modifiedDate="2019-07-11T08:09:07">
+  <properties>
+    <titles>
+      <title>Your grace is enough</title>
+      <title>Freely you gave</title>
+    </titles>
+    <authors>
+      <author>Hillsong</author>
+    </authors>
+    <verseOrder>v1 c1 v2 c1 c2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+		Your grace is enough, more than I need<br />
+		At your word I will believe<br />
+		I wait for you, draw near again<br />
+		Let your spirit make me new<br />
+	  </lines>
+	</verse>
+    <verse name="c1">
+      <lines>
+		And I will fall at your feet<br />
+		I will fall at your feet<br />
+		And I will worship you here<br />
+	  </lines>
+	</verse>
+    <verse name="v2">
+      <lines>
+		Your presence in me, Jesus light the way<br />
+		By the power of your word<br />
+		I am restored, I am redeemed<br />
+		By your spirit I am free<br />
+	  </lines>
+	</verse>
+    <verse name="c2">
+      <lines>
+		Freely you gave it all for us<br />
+		Surrendered your life upon that cross<br />
+		Great is the love poured out for all<br />
+		This is our God<br />
+	  </lines>
+      <lines>
+		Lifted on high from death to life<br />
+		Forever our God is glorified<br />
+		Servant and king rescued the world<br />
+		This is our God<br />
+	  </lines>
+	</verse>
+  </lyrics>
+</song>

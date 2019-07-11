@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.4" modifiedIn="OpenLP 2.4.4" modifiedDate="2019-07-11T08:09:07">
+  <properties>
+    <titles>
+      <title>The Lion and the Lamb</title>
+      <title>He's coming on the clouds</title>
+    </titles>
+    <authors>
+      <author>Bethel</author>
+    </authors>
+    <verseOrder>v1 b v2 b c1 c2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+		Let our praise be Your welcome<br />
+		Let our songs be a sign<br />
+		We are here for You, we are here for You<br />
+	  </lines>
+      <lines>
+		Let Your breath come from heaven<br />
+		Fill our hearts with Your life<br />
+		We are here for You, we are here for You<br />
+	  </lines>
+	</verse>
+    <verse name="b">
+      <lines>
+		To You our hearts are open<br />
+		Nothing here is hidden<br />
+		You are our one desire<br />
+		You alone are holy<br />
+		Only You are worthy<br />
+		God, let Your fire fall down<br />
+	  </lines>
+	</verse>
+    <verse name="v2">
+      <lines>
+		Let our shout be Your anthem<br />
+		Your renown fill the skies<br />
+		We are here for You, we are here for You<br />
+	  </lines>
+      <lines>
+		Let Your Word move in power<br />
+		Let what's dead come to life<br />
+		We are here for You, we are here for You<br />
+	  </lines>
+	</verse>
+    <verse name="c1">
+      <lines>
+		We welcome You with praise<br />
+		We welcome You with praise<br />
+		Almighty God of love<br />
+		Be welcomed in this place<br />
+		We welcome You with praise<br />
+		We welcome You with praise<br />
+		Almighty God of love<br />
+		Be welcomed in this place<br />
+	  </lines>
+	</verse>
+    <verse name="c2">
+      <lines>
+		Let every heart adore<br />
+		Let every soul awake<br />
+		Almighty God of love<br />
+		Be welcomed in this place<br />
+		We welcome You with praise<br />
+		We welcome You with praise<br />
+		Almighty God of love<br />
+		Be welcomed in this place<br />
+	  </lines>
+	</verse>
+  </lyrics>
+</song>

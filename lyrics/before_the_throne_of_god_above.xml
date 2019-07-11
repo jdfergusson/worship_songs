@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.4" modifiedIn="OpenLP 2.4.4" modifiedDate="2019-07-11T08:09:07">
+  <properties>
+    <titles>
+      <title>Before the throne of God above</title>
+    </titles>
+    <authors>
+      <author>Sovreign Grace</author>
+    </authors>
+    <verseOrder>v1 c1 v2 c2 v3 c3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+		Before the throne of God above<br />
+		I have a strong and perfect plea <br />
+		A great High Priest whose name is love <br />
+		Who ever lives and pleads for me <br />
+	  </lines>
+	</verse>
+    <verse name="c1">
+      <lines>	
+		My name is graven on His hands <br />
+		My name is written on His heart <br />
+		I know that while in heav'n He stands <br />
+		No tongue can bid me thence depart <br />
+		No tongue can bid me thence depart<br />
+	  </lines>
+	</verse>
+    <verse name="v2">
+      <lines>	
+		When Satan tempts me to despair <br />
+		And tells me of the guilt within <br />
+		Upward I look and see Him there <br />
+		Who made an end of all my sin <br />
+	  </lines>
+	</verse>
+    <verse name="c2">
+      <lines>	
+		Because the sinless Savior died <br />
+		My sinful soul is counted free <br />
+		For God the Just is satisfied <br />
+		To look on Him and pardon me <br />
+		To look on Him and pardon me<br />
+	  </lines>
+	</verse>
+    <verse name="v3">
+      <lines>	
+		Behold Him there, the risen Lamb <br />
+		My perfect, spotless Righteousness <br />
+		The great unchangeable I AM <br />
+		The King of glory and of grace <br />
+	  </lines>
+	</verse>
+    <verse name="c3">
+      <lines>	
+		One with Himself, I cannot die <br />
+		My soul is purchased by His blood <br />
+		My life is hid with Christ on high <br />
+		With Christ my Savior and my God <br />
+		With Christ my Savior and my God<br />
+		With Christ my Savior and my God<br />
+	  </lines>
+	</verse>
+  </lyrics>
+</song>

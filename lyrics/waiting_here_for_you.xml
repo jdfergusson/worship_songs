@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.4" modifiedIn="OpenLP 2.4.4" modifiedDate="2019-07-11T08:09:07">
+  <properties>
+    <titles>
+      <title>Waiting Here For You</title>
+      <title>If faith can move the mountains</title>
+    </titles>
+    <authors>
+      <author>Chris Tomlin</author>
+    </authors>
+    <verseOrder>v1 v2 c v3 c b c</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+		If faith can move the mountains<br />
+		Let the mountains move<br />
+		We come with expectation<br />
+		Waiting here for you,<br />
+		waiting here for you<br />
+	  </lines>
+	</verse>
+    <verse name="v2">
+      <lines>		
+		You’re the Lord of all creation<br />
+		And still you know my heart<br />
+		The Author of Salvation <br />
+		You’ve loved us from the start<br />
+	  </lines>
+	</verse>
+    <verse name="c">
+      <lines>		
+		Waiting here for You<br />
+		With our hands lifted high in praise<br />
+		And it's You we adore<br />
+		Singing Alleluia<br />
+	  </lines>
+	</verse>
+    <verse name="v3">
+      <lines>		
+		You are everything You’ve promised<br />
+		Your faithfulness is true<br />
+		And we're desperate for Your presence<br />
+		All we need is You<br />
+	  </lines>
+	</verse>
+    <verse name="b">
+      <lines>		
+		Singing Alleluia<br />
+		Singing Alleluia<br />
+	  </lines>
+	</verse>
+  </lyrics>
+</song>

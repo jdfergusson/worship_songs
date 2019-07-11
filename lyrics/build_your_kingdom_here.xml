@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.4" modifiedIn="OpenLP 2.4.4" modifiedDate="2019-07-11T08:09:07">
+  <properties>
+    <titles>
+      <title>Build your kingdom here</title>
+    </titles>
+    <authors>
+      <author>Rend Collective</author>
+    </authors>
+    <verseOrder>v1 p1 c v2 p2 c v3 p3 c</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+		Come set Your rule and reign<br />
+		In our hearts again<br />
+		Increase in us we pray<br />
+		Unveil why we're made<br />
+		Come set our hearts ablaze with hope<br />
+		Like wildfire in our very souls<br />
+		Holy Spirit come invade us now<br />
+	  </lines>
+	</verse>
+    <verse name="p1">
+      <lines>	
+		We are Your Church<br />
+		And we need Your power<br />
+		In us<br />
+	  </lines>
+	</verse>
+    <verse name="v2">
+      <lines>	
+		We seek Your kingdom first<br />
+		We hunger and we thirst<br />
+		Refuse to waste our lives<br />
+		For You're our joy and prize<br />
+		To see the captive hearts released<br />
+		The hurt, the sick, the poor at peace<br />
+		We lay down our lives for Heaven's cause<br />
+	  </lines>
+	</verse>
+    <verse name="p2">
+      <lines>	
+		We are Your church<br />
+		And we pray revive<br />
+		This earth<br />
+	  </lines>
+	</verse>
+    <verse name="c">
+      <lines>	
+		Build Your kingdom here<br />
+		Let the darkness fear<br />
+		Show Your mighty hand<br />
+		Heal our streets and land<br />
+		Set Your church on fire<br />
+		Win this nation back<br />
+		Change the atmosphere<br />
+		Build Your kingdom here<br />
+		We pray<br />
+	  </lines>
+	</verse>
+    <verse name="v3">
+      <lines>	
+		Unleash Your kingdom's power<br />
+		Reaching the near and far<br />
+		No force of hell can stop<br />
+		Your beauty changing hearts<br />
+		You made us for much more than this<br />
+		Awake the kingdom seed in us<br />
+		Fill us with the strength and love of Christ<br />
+	  </lines>
+	</verse>
+    <verse name="p3">
+      <lines>	
+		We are Your church<br />
+		and we are the hope<br />
+		On earth<br />
+	  </lines>
+	</verse>
+  </lyrics>
+</song>

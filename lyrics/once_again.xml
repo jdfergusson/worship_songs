@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.4" modifiedIn="OpenLP 2.4.4" modifiedDate="2019-07-11T08:09:07">
+  <properties>
+    <titles>
+      <title>Once Again</title>
+      <title>Thank you for the cross</title>
+    </titles>
+    <authors>
+      <author>Matt Redman</author>
+    </authors>
+    <verseOrder>v1 c v2 c b c</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+		Jesus Christ, I think upon your sacrifice<br />
+		You became nothing, poured out to death<br />
+		Many times I've wondered at your gift of life<br />
+		And I'm in that place once again<br />
+		I'm in that place once again<br />
+	  </lines>
+	</verse>
+    <verse name="c">
+      <lines>	
+		And once again I look upon the cross where you died<br />
+		I'm humbled by your mercy and I'm broken inside<br />
+		Once again I thank you<br />
+		Once again I pour out my life<br />
+	  </lines>
+	</verse>
+    <verse name="v2">
+      <lines>	
+		Now you are exalted to the highest place<br />
+		King of the heavens, where one day I'll bow<br />
+		But for now I marvel at your saving grace<br />
+		And I'm full of praise once again<br />
+		I'm full of praise once again<br />
+	  </lines>
+	</verse>
+    <verse name="b">
+      <lines>	
+		Thank you for the cross<br />
+		Thank you for the cross<br />
+		Thank you for the cross, my friend<br />
+	  </lines>
+	</verse>
+  </lyrics>
+</song>

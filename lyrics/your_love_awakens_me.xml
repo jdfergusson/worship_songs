@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.4" modifiedIn="OpenLP 2.4.4" modifiedDate="2019-07-11T08:09:07">
   <properties>
     <titles>
@@ -13,49 +13,35 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>
-        There were walls between us<br />
-        And by the cross you came and broke them down<br />
-        You broke them down<br />
-      </lines>
-      <lines>
-        And there were chains around us<br />
-        By Your grace we are no longer bound<br />
-        No longer bound<br />
-      </lines>
+      <lines>There were walls between us
+And by the cross you came and broke them down
+You broke them down</lines>
+      <lines>And there were chains around us
+By Your grace we are no longer bound
+No longer bound</lines>
     </verse>
     <verse name="p">
-      <lines>
-        You called me out of the grave<br />
-        You called me into the light<br />
-        You called my name and then my heart came alive<br />
-      </lines>
+      <lines>You called me out of the grave
+You called me into the light
+You called my name and then my heart came alive</lines>
     </verse>
     <verse name="c">
-      <lines>
-        Your love is greater<br />
-        Your love is stronger<br />
-        Your love awakens, awakens, awakens me<br />
-      </lines>
+      <lines>Your love is greater
+Your love is stronger
+Your love awakens, awakens, awakens me</lines>
     </verse>
     <verse name="v2">
-      <lines>
-        Feel the darkness shaking<br />
-        All the dead are coming back to life<br />
-        Back to life<br />
-      </lines>
-      <lines>
-        Hear the song awaken<br />
-        All creation singing we're alive<br />
-        'Cause You're alive<br />
-      </lines>
+      <lines>Feel the darkness shaking
+All the dead are coming back to life
+Back to life</lines>
+      <lines>Hear the song awaken
+All creation singing we're alive
+'Cause You're alive</lines>
     </verse>
     <verse name="b">
-      <lines>
-        And what a love we found<br />
-        Death can't hold us down<br />
-        We shout it out we're alive, 'cause you're alive<br />
-      </lines>
+      <lines>And what a love we found
+Death can't hold us down
+We shout it out we're alive, 'cause you're alive</lines>
     </verse>
   </lyrics>
 </song>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.4" modifiedIn="OpenLP 2.4.4" modifiedDate="2019-07-11T08:09:07">
   <properties>
     <titles>
@@ -11,68 +11,52 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>
-		In Christ alone my hope is found,<br />
-		He is my light, my strength, my song<br />
-		This Cornerstone, this solid Ground<br />
-		Firm through the fiercest drought and storm.<br />
-	  </lines>
-	</verse>
+      <lines>In Christ alone my hope is found,
+He is my light, my strength, my song
+This Cornerstone, this solid Ground
+Firm through the fiercest drought and storm.</lines>
+    </verse>
     <verse name="c1">
-      <lines>		
-		What heights of love, what depths of peace<br />
-		When fears are stilled, when strivings cease<br />
-		My Comforter, my All in All<br />
-		Here in the love of Christ I stand.<br />
-	  </lines>
-	</verse>
+      <lines>What heights of love, what depths of peace
+When fears are stilled, when strivings cease
+My Comforter, my All in All
+Here in the love of Christ I stand.</lines>
+    </verse>
     <verse name="v2">
-      <lines>		
-		In Christ alone! - who took on flesh,<br />
-		Fullness of God in helpless babe.<br />
-		This gift of love and righteousness,<br />
-		Scorned by the ones He came to save<br />
-	  </lines>
-	</verse>
+      <lines>In Christ alone! - who took on flesh,
+Fullness of God in helpless babe.
+This gift of love and righteousness,
+Scorned by the ones He came to save</lines>
+    </verse>
     <verse name="c2">
-      <lines>
-		Till on that cross as Jesus died,<br />
-		The wrath of God was satisfied <br />
-		For every sin on Him was laid<br />
-		Here in the death of Christ I live.<br />
-	  </lines>
-	</verse>
+      <lines>Till on that cross as Jesus died,
+The wrath of God was satisfied 
+For every sin on Him was laid
+Here in the death of Christ I live.</lines>
+    </verse>
     <verse name="v3">
-      <lines>
-		There in the ground His body lay,<br />
-		Light of the world by darkness slain:<br />
-		Then bursting forth in glorious day<br />
-		Up from the grave He rose again<br />
-	  </lines>
-	</verse>
+      <lines>There in the ground His body lay,
+Light of the world by darkness slain:
+Then bursting forth in glorious day
+Up from the grave He rose again</lines>
+    </verse>
     <verse name="c3">
-      <lines>
-		And as He stands in victory<br />
-		Sin's curse has lost its grip on me,<br />
-		For I am His and He is mine <br />
-		Bought with the precious blood of Christ<br />
-	  </lines>
-	</verse>
+      <lines>And as He stands in victory
+Sin's curse has lost its grip on me,
+For I am His and He is mine 
+Bought with the precious blood of Christ</lines>
+    </verse>
     <verse name="v4">
-      <lines>
-		No guilt in life, no fear in death,<br />
-		This is the power of Christ in me<br />
-		From life's first cry to final breath,<br />
-		Jesus commands my destiny<br />
-	  </lines>
-	</verse>
+      <lines>No guilt in life, no fear in death,
+This is the power of Christ in me
+From life's first cry to final breath,
+Jesus commands my destiny</lines>
+    </verse>
     <verse name="c4">
-      <lines>
-		No power of hell, no scheme of man,<br />
-		Can ever pluck me from His hand<br />
-		Till He returns or calls me home<br />
-		Here in the power of Christ I'll stand.<br />
-	  </lines>
-	</verse>
+      <lines>No power of hell, no scheme of man,
+Can ever pluck me from His hand
+Till He returns or calls me home
+Here in the power of Christ I'll stand.</lines>
+    </verse>
   </lyrics>
 </song>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.4" modifiedIn="OpenLP 2.4.4" modifiedDate="2019-07-11T08:09:07">
   <properties>
     <titles>
@@ -11,28 +11,22 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>
-		To be in your presence<br />
-		To sit at your feet<br />
-		When your love surrounds me<br />
-		And makes me complete<br />
-	  </lines>
-	</verse>
+      <lines>To be in your presence
+To sit at your feet
+When your love surrounds me
+And makes me complete</lines>
+    </verse>
     <verse name="c">
-      <lines>	
-		This is my desire, O Lord<br />
-		This is my desire<br />
-		This is my desire, O Lord<br />
-		This is my desire<br />
-	  </lines>
-	</verse>
+      <lines>This is my desire, O Lord
+This is my desire
+This is my desire, O Lord
+This is my desire</lines>
+    </verse>
     <verse name="v2">
-      <lines>	
-		To rest in your presence<br />
-		Not rushing away<br />
-		To cherish each moment<br />
-		Here I would stay<br />
-	  </lines>
-	</verse>
+      <lines>To rest in your presence
+Not rushing away
+To cherish each moment
+Here I would stay</lines>
+    </verse>
   </lyrics>
 </song>

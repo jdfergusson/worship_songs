@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.4" modifiedIn="OpenLP 2.4.4" modifiedDate="2019-07-11T08:09:07">
   <properties>
     <titles>
@@ -12,43 +12,33 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>
-		If faith can move the mountains<br />
-		Let the mountains move<br />
-		We come with expectation<br />
-		Waiting here for you,<br />
-		waiting here for you<br />
-	  </lines>
-	</verse>
+      <lines>If faith can move the mountains
+Let the mountains move
+We come with expectation
+Waiting here for you,
+waiting here for you</lines>
+    </verse>
     <verse name="v2">
-      <lines>		
-		You’re the Lord of all creation<br />
-		And still you know my heart<br />
-		The Author of Salvation <br />
-		You’ve loved us from the start<br />
-	  </lines>
-	</verse>
+      <lines>You’re the Lord of all creation
+And still you know my heart
+The Author of Salvation 
+You’ve loved us from the start</lines>
+    </verse>
     <verse name="c">
-      <lines>		
-		Waiting here for You<br />
-		With our hands lifted high in praise<br />
-		And it's You we adore<br />
-		Singing Alleluia<br />
-	  </lines>
-	</verse>
+      <lines>Waiting here for You
+With our hands lifted high in praise
+And it's You we adore
+Singing Alleluia</lines>
+    </verse>
     <verse name="v3">
-      <lines>		
-		You are everything You’ve promised<br />
-		Your faithfulness is true<br />
-		And we're desperate for Your presence<br />
-		All we need is You<br />
-	  </lines>
-	</verse>
+      <lines>You are everything You’ve promised
+Your faithfulness is true
+And we're desperate for Your presence
+All we need is You</lines>
+    </verse>
     <verse name="b">
-      <lines>		
-		Singing Alleluia<br />
-		Singing Alleluia<br />
-	  </lines>
-	</verse>
+      <lines>Singing Alleluia
+Singing Alleluia</lines>
+    </verse>
   </lyrics>
 </song>

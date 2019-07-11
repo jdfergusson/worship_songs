@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.4" modifiedIn="OpenLP 2.4.4" modifiedDate="2019-07-11T08:09:07">
   <properties>
     <titles>
@@ -13,38 +13,30 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>
-		Worthy of every song we could ever sing<br />
-		Worthy of all the praise we could ever bring<br />
-		Worthy of every breath we could ever breathe<br />
-		We live for you
-	  </lines>
-	</verse>
+      <lines>Worthy of every song we could ever sing
+Worthy of all the praise we could ever bring
+Worthy of every breath we could ever breathe
+We live for you</lines>
+    </verse>
     <verse name="v2">
-      <lines>	
-		Jesus the name above every other name<br />
-		Jesus the only one who could save<br />
-		Worthy of every breath we could ever breathe<br />
-		We live for you<br />
-		Oh we live for you<br />
-	  </lines>
-	</verse>
+      <lines>Jesus the name above every other name
+Jesus the only one who could save
+Worthy of every breath we could ever breathe
+We live for you
+Oh we live for you</lines>
+    </verse>
     <verse name="c">
-      <lines>	
-		Holy there is no one like you<br />
-		There is none beside you<br />
-		Open up my eyes in wonder<br />
-		Show me who you are and fill me<br />
-		With your heart and lead me<br />
-		In your love to those around me<br />
-	  </lines>
-	</verse>
+      <lines>Holy there is no one like you
+There is none beside you
+Open up my eyes in wonder
+Show me who you are and fill me
+With your heart and lead me
+In your love to those around me</lines>
+    </verse>
     <verse name="b">
-      <lines>	
-		And I will build my life upon your love it is a firm foundation<br />
-		And I will put my trust in you alone<br />
-		And I will not be shaken<br />
-	  </lines>
-	</verse>
+      <lines>And I will build my life upon your love it is a firm foundation
+And I will put my trust in you alone
+And I will not be shaken</lines>
+    </verse>
   </lyrics>
 </song>

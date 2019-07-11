@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.4" modifiedIn="OpenLP 2.4.4" modifiedDate="2019-07-11T08:09:07">
   <properties>
     <titles>
@@ -11,56 +11,44 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>
-		Before the throne of God above<br />
-		I have a strong and perfect plea <br />
-		A great High Priest whose name is love <br />
-		Who ever lives and pleads for me <br />
-	  </lines>
-	</verse>
+      <lines>Before the throne of God above
+I have a strong and perfect plea 
+A great High Priest whose name is love 
+Who ever lives and pleads for me</lines>
+    </verse>
     <verse name="c1">
-      <lines>	
-		My name is graven on His hands <br />
-		My name is written on His heart <br />
-		I know that while in heav'n He stands <br />
-		No tongue can bid me thence depart <br />
-		No tongue can bid me thence depart<br />
-	  </lines>
-	</verse>
+      <lines>My name is graven on His hands 
+My name is written on His heart 
+I know that while in heav'n He stands 
+No tongue can bid me thence depart 
+No tongue can bid me thence depart</lines>
+    </verse>
     <verse name="v2">
-      <lines>	
-		When Satan tempts me to despair <br />
-		And tells me of the guilt within <br />
-		Upward I look and see Him there <br />
-		Who made an end of all my sin <br />
-	  </lines>
-	</verse>
+      <lines>When Satan tempts me to despair 
+And tells me of the guilt within 
+Upward I look and see Him there 
+Who made an end of all my sin</lines>
+    </verse>
     <verse name="c2">
-      <lines>	
-		Because the sinless Savior died <br />
-		My sinful soul is counted free <br />
-		For God the Just is satisfied <br />
-		To look on Him and pardon me <br />
-		To look on Him and pardon me<br />
-	  </lines>
-	</verse>
+      <lines>Because the sinless Savior died 
+My sinful soul is counted free 
+For God the Just is satisfied 
+To look on Him and pardon me 
+To look on Him and pardon me</lines>
+    </verse>
     <verse name="v3">
-      <lines>	
-		Behold Him there, the risen Lamb <br />
-		My perfect, spotless Righteousness <br />
-		The great unchangeable I AM <br />
-		The King of glory and of grace <br />
-	  </lines>
-	</verse>
+      <lines>Behold Him there, the risen Lamb 
+My perfect, spotless Righteousness 
+The great unchangeable I AM 
+The King of glory and of grace</lines>
+    </verse>
     <verse name="c3">
-      <lines>	
-		One with Himself, I cannot die <br />
-		My soul is purchased by His blood <br />
-		My life is hid with Christ on high <br />
-		With Christ my Savior and my God <br />
-		With Christ my Savior and my God<br />
-		With Christ my Savior and my God<br />
-	  </lines>
-	</verse>
+      <lines>One with Himself, I cannot die 
+My soul is purchased by His blood 
+My life is hid with Christ on high 
+With Christ my Savior and my God 
+With Christ my Savior and my God
+With Christ my Savior and my God</lines>
+    </verse>
   </lyrics>
 </song>

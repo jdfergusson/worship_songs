@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.4" modifiedIn="OpenLP 2.4.4" modifiedDate="2019-07-11T08:09:07">
   <properties>
     <titles>
@@ -12,42 +12,32 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>
-        When I call on your name you answer<br />
-        When I fall You are there by my side<br />
-        You delivered me out of darkness<br />
-        Now I stand in the hope of new life
-      </lines>
+      <lines>When I call on your name you answer
+When I fall You are there by my side
+You delivered me out of darkness
+Now I stand in the hope of new life</lines>
     </verse>
     <verse name="p">
-      <lines>
-        By grace I'm free<br />
-        You've rescued me<br />
-        All I am is Yours
-      </lines>
+      <lines>By grace I'm free
+You've rescued me
+All I am is Yours</lines>
     </verse>
     <verse name="c">
-      <lines>
-        I've found a love greater than life itself<br />
-        I've found a hope stronger and nothing compares<br />
-        I once was lost; now I'm alive in You
-      </lines>
+      <lines>I've found a love greater than life itself
+I've found a hope stronger and nothing compares
+I once was lost; now I'm alive in You</lines>
     </verse>
     <verse name="v2">
-      <lines>
-        You're my God and my firm foundation<br />
-        It is You whom I'll trust at all times<br />
-        I give glory and praise, adoration<br />
-        To my Saviour who's seated on high
-      </lines>
+      <lines>You're my God and my firm foundation
+It is You whom I'll trust at all times
+I give glory and praise, adoration
+To my Saviour who's seated on high</lines>
     </verse>
     <verse name="b">
-      <lines>
-        Love came down and rescued me<br />
-        I thank You, I thank You<br />
-        I once was blind but now I see<br />
-        I see You, I see You
-      </lines>
+      <lines>Love came down and rescued me
+I thank You, I thank You
+I once was blind but now I see
+I see You, I see You</lines>
     </verse>
   </lyrics>
 </song>

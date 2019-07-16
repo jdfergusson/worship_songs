@@ -1,0 +1,11 @@
+{ 
+	"settings": { 
+		"titles": "center", 
+		"columns": 2, 
+	},
+	"pdf": {
+		"labels": {
+			"align": "left",
+		},
+	},
+}

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.4" modifiedIn="OpenLP 2.4.4" modifiedDate="2019-07-11T08:09:07">
+   <properties>
+      <titles>
+         <title>O Church Arise</title>
+      </titles>
+      <authors>
+         <author>Getty/Tomlin</author>
+      </authors>
+      <verseOrder>v1 v2 c v3 v4 c</verseOrder>
+   </properties>
+   <lyrics>
+      <verse name="v1">
+         <lines>O church, arise and put your armour on;
+Hear the call of Christ our captain;
+For now the weak can say that they are strong
+In the strength that God has given.</lines>
+         <lines>With shield of faith and belt of truth
+We'll stand against the devil's lies;
+An army bold whose battle cry is "Love!"
+Reaching out to those in darkness.</lines>
+      </verse>
+      <verse name="v2">
+         <lines>Our call to war, to love the captive soul,
+But to rage against the captor;
+And with the sword that makes the wounded whole
+We will fight with faith and valour.</lines>
+         <lines>When faced with trials on ev'ry side,
+We know the outcome is secure,
+And Christ will have the prize for which He died—
+An inheritance of nations.</lines>
+      </verse>
+      <verse name="c">
+         <lines>Arise, shine for your light has come.
+Arise, shine for the Risen Son.
+Lift your eyes, we are his radiant bride
+Arise, O church, arise</lines>
+      </verse>
+      <verse name="v3">
+         <lines>Come, see the cross where love and mercy meet,
+As the Son of God is stricken;
+Then see His foes lie crushed beneath His feet,
+For the Conqueror has risen!</lines>
+         <lines>And as the stone is rolled away,
+And Christ emerges from the grave,
+This vict'ry march continues till the day
+Ev'ry eye and heart shall see Him.</lines>
+      </verse>
+      <verse name="v4">
+         <lines>So Spirit, come, put strength in ev'ry stride,
+Give grace for ev'ry hurdle,
+That we may run with faith to win the prize
+Of a servant good and faithful.</lines>
+         <lines>As saints of old still line the way,
+Retelling triumphs of His grace,
+We hear their calls and hunger for the day
+When, with Christ, we stand in glory.</lines>
+      </verse>
+   </lyrics>
+</song>

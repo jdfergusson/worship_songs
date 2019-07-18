@@ -8,7 +8,7 @@
     <authors>
       <author>Brenton Brown</author>
     </authors>
-    <verseOrder>v1 c1 v2 c2 v3 c3</verseOrder>
+    <verseOrder>v1 v2 c1 v1 v2 c2</verseOrder>
   </properties>
   <lyrics>
     <verse name="v1">
@@ -17,7 +17,7 @@ All who are weak
 Come to the fountain
 Dip your heart in the stream of life</lines>
     </verse>
-    <verse name="c1">
+    <verse name="v2">
       <lines>Let the pain and the sorrow
 Be washed away
 In the waves of His mercy
@@ -29,7 +29,7 @@ Come Lord Jesus come
 Come Lord Jesus come
 Come Lord Jesus come</lines>
     </verse>
-    <verse name="c1">
+    <verse name="c2">
       <lines>Holy Spirit come
 Holy Spirit come
 Holy Spirit come

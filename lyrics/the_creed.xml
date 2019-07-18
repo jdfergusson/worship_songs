@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.4" modifiedIn="OpenLP 2.4.4" modifiedDate="2019-07-11T08:09:07">
+  <properties>
+    <titles>
+      <title>The Creed</title>
+      <title>I believe</title>
+    </titles>
+    <authors>
+      <author>Hillsong</author>
+    </authors>
+    <verseOrder>v1 c1 v2 c1 b c1 c2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Our Father everlasting
+The all creating One
+God Almighty
+Through Your Holy Spirit
+Conceiving Christ the Son
+Jesus our Savior</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I believe in God our Father
+I believe in Christ the Son
+I believe in the Holy Spirit
+Our God is three in one
+I believe in the resurrection
+That we will rise again
+For I believe in the name of Jesus</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Our Judge and our Defender
+Suffered and crucified
+Forgiveness is in You
+Descended into darkness
+You rose in glorious life
+Forever seated high</lines>
+    </verse>
+    <verse name="b">
+      <lines>I believe in You
+I believe You rose again
+I believe that Jesus Christ is Lord</lines>
+    </verse>
+    <verse name="c2">
+      <lines>I believe in life eternal
+I believe in the virgin birth
+I believe in the saints' communion
+And in Your holy Church
+I believe in the resurrection
+When Jesus comes again
+For I believe in the name of Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

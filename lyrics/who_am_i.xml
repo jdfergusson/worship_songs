@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.4" modifiedIn="OpenLP 2.4.4" modifiedDate="2019-07-11T08:09:07">
+  <properties>
+    <titles>
+      <title>Who am I</title>
+      <title>I'm a child of God</title>
+    </titles>
+    <authors>
+      <author>Hillsong</author>
+    </authors>
+    <verseOrder>v1 c v2 c b c</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Who am I that the highest King
+Would welcome me?
+I was lost but He brought me in
+Oh His love for me
+Oh His love for me</lines>
+    </verse>
+    <verse name="c">
+      <lines>Who the Son sets free
+Oh is free indeed
+I'm a child of God
+Yes I am
+In my Father's house
+There's a place for me
+I'm a child of God
+Yes I am</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Free at last, He has ransomed me
+His grace runs deep
+While I was a slave to sin
+Jesus died for me
+Yes He died for me</lines>
+    </verse>
+    </verse>
+    <verse name="b">
+      <lines>I am chosen
+Not forsaken
+I am who You say I am
+You are for me
+Not against me
+I am who You say I am</lines>
+    </verse>
+  </lyrics>
+</song>
